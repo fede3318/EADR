@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'elartedelreclutamiento'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E8B15618F85540D7987E68A203848518 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_069652032D0B4DF3B2A272ADA991340B }}
           package: '*.jar'
